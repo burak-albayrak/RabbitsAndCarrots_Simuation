@@ -56,12 +56,6 @@ Rabbit Sleep Time (ms): 1000
 ### Example Output
 
 ```
-Number of Rabbits: 2
-Number of Boxes: 5
-Carrot Production Rate (%): 30
-Carrot Timeout (ms): 2000
-Rabbit Sleep Time (ms): 1000
-
 Rabbit 1 jumped to box 1
 Carrot added to box 1
 Rabbit 2 jumped to box 1
