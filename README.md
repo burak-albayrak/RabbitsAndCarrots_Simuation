@@ -30,35 +30,6 @@ Carrots have a lifespan defined by a timeout value. If a carrot is not consumed 
 
 - **Synchronized Blocks**: Used to ensure thread safety when accessing shared resources like carrot boxes and scores.
 
-## Installation and Setup
-
-### Prerequisites
-
-- Java Development Kit (JDK) installed
-- Git (optional, for cloning the repository)
-
-### Installation Steps
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/<username>/RabbitAndCarrotSimulation.git
-    ```
-  
-2. **Navigate to Project Directory**:
-    ```bash
-    cd RabbitAndCarrotSimulation
-    ```
-
-3. **Compile the Code**:
-    ```bash
-    javac Main.java
-    ```
-
-4. **Run the Application**:
-    ```bash
-    java Main
-    ```
-
 ## Usage
 
 Upon running the application, the user is prompted to enter the simulation parameters:
