@@ -53,6 +53,36 @@ Carrot Production Rate (%): 30
 Carrot Timeout (ms): 2000
 Rabbit Sleep Time (ms): 1000
 ```
+### Example Output
+
+```
+Number of Rabbits: 2
+Number of Boxes: 5
+Carrot Production Rate (%): 30
+Carrot Timeout (ms): 2000
+Rabbit Sleep Time (ms): 1000
+
+Rabbit 1 jumped to box 1
+Carrot added to box 1
+Rabbit 2 jumped to box 1
+Rabbit 1 ate the carrot in box 1
+Carrot in the box 1 has timed out
+Rabbit 2 ate the carrot in box 1
+Rabbit 1 jumped to box 2
+Carrot added to box 2
+Rabbit 2 jumped to box 2
+Rabbit 1 jumped to box 3
+Rabbit 2 jumped to box 3
+Carrot added to box 3
+Rabbit 1 jumped to box 4
+Carrot added to box 4
+Rabbit 2 jumped to box 4
+Rabbit 1 jumped to box 5
+Rabbit 2 jumped to box 5
+Carrot added to box 5
+Rabbit 1 earned a total of 4 points.
+Rabbit 2 earned a total of 4 points.
+```
 
 ## Acknowledgements
 
